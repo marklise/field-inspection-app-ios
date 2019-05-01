@@ -2,8 +2,8 @@
 //  NewDescriptionNewObservationCollectionViewCell.swift
 //  EAO
 //
-//  Created by Amir Shayegh on 2018-01-22.
-//  Copyright © 2018 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia. All rights reserved.
 //
 
 import UIKit

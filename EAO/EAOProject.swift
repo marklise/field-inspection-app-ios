@@ -1,7 +1,7 @@
 //
 //  BaseClass.swift
 //
-//  Created by Evgeny Yagrushkin on 2018-12-19
+//  
 //  Copyright (c) . All rights reserved.
 //
 

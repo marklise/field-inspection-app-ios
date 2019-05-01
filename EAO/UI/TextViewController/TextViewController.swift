@@ -2,8 +2,8 @@
 //  TextViewController.swift
 //  EAO
 //
-//  Created by Micha Volin on 2017-05-28.
-//  Copyright © 2017 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia
 //
 
 ///This is a ViewController is designed to let users input large amount of text. It can auto-rotate.

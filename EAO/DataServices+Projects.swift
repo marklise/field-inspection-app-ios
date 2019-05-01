@@ -2,7 +2,7 @@
 //  DataServices+Projects.swift
 //  Field Insp
 //
-//  Created by Evgeny Yagrushkin on 2018-12-30.
+//  
 //  Copyright © 2018 Province of British Columbia. All rights reserved.
 //
 
@@ -68,12 +68,12 @@ extension DataServices {
     
     func getProjectsAsStrings() -> [String] {
         
-        guard let projects = getProjects() else {
-            return []
-        }
-        
-        var projectStrings = [String]()
-        projectStrings = projects.compactMap({ $0.name })
-        return projectStrings
+//        guard let projects = getProjects() else {
+//            return []
+//        }
+//        
+//        var projectStrings = [String]()
+//        projectStrings = projects.compactMap({ $0.name })
+        return ["Project Alpha"]
     }
 }

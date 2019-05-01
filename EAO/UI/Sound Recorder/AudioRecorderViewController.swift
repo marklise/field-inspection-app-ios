@@ -2,7 +2,7 @@
 //  AudioRecorderViewController.swift
 //  EAOInspect
 //
-//  Created by Amir Shayegh on 2018-02-03.
+//  
 //  Copyright © 2018 Amir Shayegh. All rights reserved.
 //
 

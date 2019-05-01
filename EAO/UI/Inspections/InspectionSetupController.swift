@@ -2,8 +2,8 @@
 //  InspectionSetupController.swift
 //  EAO
 //
-//  Created by Micha Volin on 2017-03-30.
-//  Copyright © 2017 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia
 //
 import Parse
 import RealmSwift

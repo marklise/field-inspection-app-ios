@@ -2,8 +2,8 @@
 //  UIViewController.swift
 //  EAO
 //
-//  Created by Micha Volin on 2017-05-15.
-//  Copyright © 2017 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia
 //
 
 extension UIViewController {

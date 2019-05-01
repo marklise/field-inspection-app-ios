@@ -2,7 +2,7 @@
 //  miFormImageTableViewCell.swift
 //  time-me
 //
-//  Created by Amir Shayegh on 2018-01-12.
+//  
 //  Copyright © 2018 Amir Shayegh. All rights reserved.
 //
 

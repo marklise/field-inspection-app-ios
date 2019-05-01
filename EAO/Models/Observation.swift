@@ -2,7 +2,7 @@
 //  Observation.swift
 //  EAO
 //
-//  Created by Evgeny Yagrushkin on 2019-01-05.
+//  
 //  Copyright © 2019 Province of British Columbia. All rights reserved.
 //
 

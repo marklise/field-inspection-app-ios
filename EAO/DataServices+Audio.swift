@@ -2,7 +2,7 @@
 //  DataServices+Audio.swift
 //  Field Insp
 //
-//  Created by Evgeny Yagrushkin on 2018-12-30.
+//  
 //  Copyright © 2018 Province of British Columbia. All rights reserved.
 //
 

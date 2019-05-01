@@ -2,8 +2,8 @@
 //  UIImageView.swift
 //  EAO
 //
-//  Created by Nicholas Palichuk on 2017-03-08.
-//  Copyright © 2017 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia
 //
 
 import UIKit

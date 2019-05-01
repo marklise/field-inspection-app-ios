@@ -2,8 +2,8 @@
 //  UIImage.swift
 //  EAO
 //
-//  Created by Work on 2017-02-21.
-//  Copyright © 2017 FreshWorks. All rights reserved.
+//  
+//  Copyright 2019 Province of British Columbia
 //
 
 import UIKit

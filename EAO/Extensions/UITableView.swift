@@ -1,9 +1,8 @@
 //
 //  UITableView.swift
-//  VIATEC
 //
-//  Created by Work on 2017-02-05.
-//  Copyright © 2017 FreshWorks Studio. All rights reserved.
+//
+//  Copyright 2019 Province of British Columbia
 //
 
 import UIKit

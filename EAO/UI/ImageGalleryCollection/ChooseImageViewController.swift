@@ -2,7 +2,7 @@
 //  ChooseImageViewController.swift
 //  imageMultiSelect
 //
-//  Created by Amir Shayegh on 2017-12-12.
+//  
 //  Copyright © 2017 Amir Shayegh. All rights reserved.
 //
 

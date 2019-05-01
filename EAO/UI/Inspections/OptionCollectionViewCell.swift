@@ -2,7 +2,7 @@
 //  OptionCollectionViewCell.swift
 //  AllMyPics
 //
-//  Created by Amir Shayegh on 2017-12-18.
+//  
 //  Copyright © 2017 Amir Shayegh. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  InspectionError.swift
 //  Field Insp
 //
-//  Created by Evgeny Yagrushkin on 2018-12-15.
+//  
 //  Copyright © 2018 Goverment BC. All rights reserved.
 //
 
